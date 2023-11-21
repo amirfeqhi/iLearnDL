@@ -18,6 +18,11 @@ The repository is organized into the following directories:
 - **Project:** [Logistic_Regression_with_a_Neural_Network_mindset.ipynb](iLearnDL/NN-DL/Logistic-Regression-NN/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 - **Description:** Building a logistic regression classifier to recognize cats.
 
+#### 1.3 Planar-Data-Classification
+
+- **Project:** [Planar_data_classification_with_onehidden_layer.ipynb](iLearnDL/NN-DL/Planar-Data-Classification/Planar_data_classification_with_onehidden_layer.ipynb)
+- **Description:** Implementation of a simple neural network with a hidden layer for planar data classification.
+
 ## Coursera Deep Learning Specialization
 
 This repository is part of my deep learning journey inspired by the [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
