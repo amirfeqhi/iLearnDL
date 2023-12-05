@@ -23,6 +23,11 @@ The repository is organized into the following directories:
 - **Project:** [Planar_data_classification_with_onehidden_layer.ipynb](iLearnDL/NN-DL/Planar-Data-Classification/Planar_data_classification_with_onehidden_layer.ipynb)
 - **Description:** Implementation of a simple neural network with a hidden layer for planar data classification.
 
+#### 1.4 Building-Deep-NN
+
+- **Project:** [Building_your_Deep_Neural_Network_Step_by_Step.ipynb](iLearnDL/NN-DL/Building-Deep-NN/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+- **Description:** Implementation of all the functions required to build a deep neural network step by step.
+
 ## Coursera Deep Learning Specialization
 
 This repository is part of my deep learning journey inspired by the [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
