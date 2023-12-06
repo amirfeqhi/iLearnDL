@@ -28,6 +28,11 @@ The repository is organized into the following directories:
 - **Project:** [Building_your_Deep_Neural_Network_Step_by_Step.ipynb](iLearnDL/NN-DL/Building-Deep-NN/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
 - **Description:** Implementation of all the functions required to build a deep neural network step by step.
 
+#### 1.5 Deep-NN-App-Image-Classification
+
+- **Project:** [Deep_Neural_Network_Application.ipynb](iLearnDL/NN-DL/Deep-NN-App-Image-Classification/Deep_Neural_Network_Application.ipynb)
+- **Description:** Implementation of a deep network and its application to cat vs non-cat image classification.
+
 ## Coursera Deep Learning Specialization
 
 This repository is part of my deep learning journey inspired by the [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
